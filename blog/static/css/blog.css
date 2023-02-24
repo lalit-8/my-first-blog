@@ -27,7 +27,10 @@ h4
     font-family: 'Lobster', cursive;
 }
 
-h5{
+#author-name{
+	font-size: 20px;
+	margin: 0;
+	font-weight: bold;
 	font-family:Calibri;
 	font-weight:bold;
 	color: #ffffff;
